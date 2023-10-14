@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Dev, Cyber Sec, IT. 
 - 🌱 I’m currently learning Cyber Sec, Python, C. 
 - 💞️ I’m looking to collaborate on Coding. 
-- 📫 How to reach me atorres355@student.cccs.edu
+- 📫 How to reach me atorre6880@comcast.net
 
 <!---
 AntonioTorres23/AntonioTorres23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
